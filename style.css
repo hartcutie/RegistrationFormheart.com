@@ -1,0 +1,37 @@
+
+.boxed {
+    margin: 30;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    font-variant:inherit;
+    color: yellow;
+    font-size: 70;
+    border: 5px solid rgb(55, 0, 255) ;
+    background-image: url(https://images8.alphacoders.com/790/thumb-1920-790825.jpg);
+    background-position: center;
+}
+body{
+    padding: 10px;
+    background:#000000;
+    color:white;
+   text-align: center;
+ }
+table {
+    margin: 30;
+    padding: 5;
+    box-sizing: border-box;
+    width:45%;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 4px;
+    resize: vertical;
+
+}
+
+
+
+
+
+ 
+
+ 
